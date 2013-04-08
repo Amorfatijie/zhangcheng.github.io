@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://zhangcheng.github.com/zhangcheng/atom.xml" rel="self"/>
-  <link href="http://zhangcheng.github.com/zhangcheng/"/>
-  <updated>2013-04-08T12:37:48+08:00</updated>
-  <id>http://zhangcheng.github.com/zhangcheng/</id>
+  <link href="http://zhangcheng.github.io/atom.xml" rel="self"/>
+  <link href="http://zhangcheng.github.io/"/>
+  <updated>2013-04-08T12:41:17+08:00</updated>
+  <id>http://zhangcheng.github.io/</id>
   <author>
     <name><![CDATA[Cheng Zhang]]></name>
     <email><![CDATA[czhang.oss@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First post]]></title>
-    <link href="http://zhangcheng.github.com/zhangcheng/blog/2013/04/07/first-post/"/>
+    <link href="http://zhangcheng.github.io/blog/2013/04/07/first-post/"/>
     <updated>2013-04-07T19:33:00+08:00</updated>
-    <id>http://zhangcheng.github.com/zhangcheng/blog/2013/04/07/first-post</id>
+    <id>http://zhangcheng.github.io/blog/2013/04/07/first-post</id>
     <content type="html"><![CDATA[<p>Hello octopress!</p>
 ]]></content>
   </entry>

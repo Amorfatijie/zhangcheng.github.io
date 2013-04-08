@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://zhangcheng.github.com/zhangcheng/sitemap.xml 
+Sitemap: http://zhangcheng.github.io/sitemap.xml 
